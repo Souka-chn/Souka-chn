@@ -7,7 +7,7 @@
 
 ---
 
-### 👩💻 About Me
+### 💻 About Me
 
 I am an AI Engineer and Software Engineer passionate about Deep Learning, Computer Vision, Machine Learning, and Natural Language Processing. I focus on designing and developing intelligent, end-to-end solutions that bridge artificial intelligence with robust software architecture to solve real-world and industrial challenges.
 
