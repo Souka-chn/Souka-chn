@@ -68,9 +68,3 @@ I am an AI Engineer and Software Engineer passionate about Deep Learning, Comput
 
 ---
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Souka-chn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souka-chn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
